@@ -37,7 +37,7 @@ return()=>{
             </div>
           </div>
           <div className='h-[75vh] w-[85vh] lg:w-[75vh] md:w-[57vh] sm:w-[45vh] xsm:w-[35vh] bg-relative bg-contain bg-center rounded-2xl drop-shadow-emrald'style={{backgroundImage: `url(${backgroundImage})`, transition:"2s"}}>
-      <div className='h-[75vh] w-[95vh] lg:h-[75vh] md:h-[57vh] sm:h-[35vh] sm:object-contain '></div>
+      <div className='h-[75vh] lg:h-[45vh] md:h-[45vh] sm:h-[25vh] '></div>
     </div>
       </div>
       
