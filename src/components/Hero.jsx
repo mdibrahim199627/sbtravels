@@ -36,7 +36,7 @@ return()=>{
               <button type= 'button' className='button-light'>{btn2}</button>
             </div>
           </div>
-          <div className='h-[75vh] w-[95vh] lg:w-[95vh] md:w-[57vh] sm:w-[45vh] xsm:w-[35vh] bg-relative bg-contain bg-center rounded-2xl drop-shadow-emrald'style={{backgroundImage: `url(${backgroundImage})`, transition:"2s"}}>
+          <div className='h-[75vh] w-[95vh] lg:w-[95vh] md:w-[57vh] sm:w-[45vh] xsm:w-[35vh] bg-relative bg-auto bg-center rounded-2xl drop-shadow-emrald'style={{backgroundImage: `url(${backgroundImage})`, transition:"2s"}}>
       <div className='h-[55vh] lg:h-[25vh] md:h-[25vh] sm:h-[25vh] '></div>
     </div>
       </div>
