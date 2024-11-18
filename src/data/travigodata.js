@@ -47,7 +47,7 @@ export const navlinks = [
 ];
 
 export const hero = {
-  "title": "SB Tours & Travels",
+  "title": "IB Tours & Travels",
   "subtitle": "Call:8248791813",
   "text": "We provide you always your dream places. We always make our customer happy by providing many choices.",
   "btn1": "Request Quote",
